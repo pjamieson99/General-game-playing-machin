@@ -1,0 +1,10 @@
+c:\users\peter\documents\visual studio 2015\Projects\General_Game_Playing_Machine\General_Game_Playing_Machine\bin\Debug\General_Game_Playing_Machine.exe.config
+C:\Users\Peter\documents\visual studio 2015\Projects\General_Game_Playing_Machine\General_Game_Playing_Machine\obj\Debug\General_Game_Playing_Machine.vbprojResolveAssemblyReference.cache
+C:\Users\Peter\documents\visual studio 2015\Projects\General_Game_Playing_Machine\General_Game_Playing_Machine\obj\Debug\General_Game_Playing_Machine.Resources.resources
+C:\Users\Peter\documents\visual studio 2015\Projects\General_Game_Playing_Machine\General_Game_Playing_Machine\obj\Debug\General_Game_Playing_Machine.vbproj.GenerateResource.Cache
+C:\Users\Peter\documents\visual studio 2015\Projects\General_Game_Playing_Machine\General_Game_Playing_Machine\obj\Debug\General_Game_Playing_Machine.xml
+C:\Users\Peter\documents\visual studio 2015\Projects\General_Game_Playing_Machine\General_Game_Playing_Machine\bin\Debug\General_Game_Playing_Machine.exe
+C:\Users\Peter\documents\visual studio 2015\Projects\General_Game_Playing_Machine\General_Game_Playing_Machine\bin\Debug\General_Game_Playing_Machine.pdb
+C:\Users\Peter\documents\visual studio 2015\Projects\General_Game_Playing_Machine\General_Game_Playing_Machine\bin\Debug\General_Game_Playing_Machine.xml
+C:\Users\Peter\documents\visual studio 2015\Projects\General_Game_Playing_Machine\General_Game_Playing_Machine\obj\Debug\General_Game_Playing_Machine.exe
+C:\Users\Peter\documents\visual studio 2015\Projects\General_Game_Playing_Machine\General_Game_Playing_Machine\obj\Debug\General_Game_Playing_Machine.pdb
