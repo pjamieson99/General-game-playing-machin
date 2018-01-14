@@ -1,0 +1,11 @@
+c:\users\peter\documents\visual studio 2015\Projects\Redone_GGPM\Redone_GGPM\bin\Debug\Redone_GGPM.exe.config
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\Redone_GGPM\Redone_GGPM\bin\Debug\Redone_GGPM.exe
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\Redone_GGPM\Redone_GGPM\bin\Debug\Redone_GGPM.pdb
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\Redone_GGPM\Redone_GGPM\bin\Debug\Redone_GGPM.xml
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\Redone_GGPM\Redone_GGPM\obj\Debug\Redone_GGPM.vbprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\Redone_GGPM\Redone_GGPM\obj\Debug\Redone_GGPM.Resources.resources
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\Redone_GGPM\Redone_GGPM\obj\Debug\Redone_GGPM.vbproj.GenerateResource.Cache
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\Redone_GGPM\Redone_GGPM\obj\Debug\Redone_GGPM.exe
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\Redone_GGPM\Redone_GGPM\obj\Debug\Redone_GGPM.xml
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\Redone_GGPM\Redone_GGPM\obj\Debug\Redone_GGPM.pdb
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\Redone_GGPM\Redone_GGPM\obj\Debug\Redone_GGPM.vbproj.CoreCompileInputs.cache
