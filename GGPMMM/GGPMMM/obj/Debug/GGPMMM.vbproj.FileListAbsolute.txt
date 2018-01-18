@@ -1,0 +1,11 @@
+c:\users\peter\source\repos\GGPMMM\GGPMMM\bin\Debug\GGPMMM.exe.config
+c:\users\peter\source\repos\GGPMMM\GGPMMM\bin\Debug\GGPMMM.exe
+c:\users\peter\source\repos\GGPMMM\GGPMMM\bin\Debug\GGPMMM.pdb
+c:\users\peter\source\repos\GGPMMM\GGPMMM\bin\Debug\GGPMMM.xml
+c:\users\peter\source\repos\GGPMMM\GGPMMM\obj\Debug\GGPMMM.vbprojResolveAssemblyReference.cache
+c:\users\peter\source\repos\GGPMMM\GGPMMM\obj\Debug\GGPMMM.Resources.resources
+c:\users\peter\source\repos\GGPMMM\GGPMMM\obj\Debug\GGPMMM.vbproj.GenerateResource.Cache
+c:\users\peter\source\repos\GGPMMM\GGPMMM\obj\Debug\GGPMMM.vbproj.CoreCompileInputs.cache
+c:\users\peter\source\repos\GGPMMM\GGPMMM\obj\Debug\GGPMMM.exe
+c:\users\peter\source\repos\GGPMMM\GGPMMM\obj\Debug\GGPMMM.xml
+c:\users\peter\source\repos\GGPMMM\GGPMMM\obj\Debug\GGPMMM.pdb
