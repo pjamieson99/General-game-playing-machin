@@ -1,0 +1,10 @@
+\\svrhome1.curricula.local\j\pjamieson\home\visual studio 2017\Projects\GGPM 2\GGPM 2\bin\Debug\GGPM 2.exe.config
+\\svrhome1.curricula.local\j\pjamieson\home\visual studio 2017\Projects\GGPM 2\GGPM 2\bin\Debug\GGPM 2.exe
+\\svrhome1.curricula.local\j\pjamieson\home\visual studio 2017\Projects\GGPM 2\GGPM 2\bin\Debug\GGPM 2.pdb
+\\svrhome1.curricula.local\j\pjamieson\home\visual studio 2017\Projects\GGPM 2\GGPM 2\bin\Debug\GGPM 2.xml
+\\svrhome1.curricula.local\j\pjamieson\home\visual studio 2017\Projects\GGPM 2\GGPM 2\obj\Debug\GGPM_2.Resources.resources
+\\svrhome1.curricula.local\j\pjamieson\home\visual studio 2017\Projects\GGPM 2\GGPM 2\obj\Debug\GGPM 2.vbproj.GenerateResource.Cache
+\\svrhome1.curricula.local\j\pjamieson\home\visual studio 2017\Projects\GGPM 2\GGPM 2\obj\Debug\GGPM 2.exe
+\\svrhome1.curricula.local\j\pjamieson\home\visual studio 2017\Projects\GGPM 2\GGPM 2\obj\Debug\GGPM 2.xml
+\\svrhome1.curricula.local\j\pjamieson\home\visual studio 2017\Projects\GGPM 2\GGPM 2\obj\Debug\GGPM 2.pdb
+\\svrhome1.curricula.local\J\pjamieson\Home\Visual Studio 2017\Projects\GGPM 2\GGPM 2\obj\Debug\GGPM 2.vbprojResolveAssemblyReference.cache
