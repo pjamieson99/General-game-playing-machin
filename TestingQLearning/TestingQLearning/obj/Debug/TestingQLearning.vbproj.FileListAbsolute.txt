@@ -1,0 +1,11 @@
+c:\users\peter\source\repos\TestingQLearning\TestingQLearning\bin\Debug\TestingQLearning.exe.config
+c:\users\peter\source\repos\TestingQLearning\TestingQLearning\bin\Debug\TestingQLearning.exe
+c:\users\peter\source\repos\TestingQLearning\TestingQLearning\bin\Debug\TestingQLearning.pdb
+c:\users\peter\source\repos\TestingQLearning\TestingQLearning\bin\Debug\TestingQLearning.xml
+c:\users\peter\source\repos\TestingQLearning\TestingQLearning\obj\Debug\TestingQLearning.vbprojResolveAssemblyReference.cache
+c:\users\peter\source\repos\TestingQLearning\TestingQLearning\obj\Debug\TestingQLearning.Resources.resources
+c:\users\peter\source\repos\TestingQLearning\TestingQLearning\obj\Debug\TestingQLearning.vbproj.GenerateResource.Cache
+c:\users\peter\source\repos\TestingQLearning\TestingQLearning\obj\Debug\TestingQLearning.vbproj.CoreCompileInputs.cache
+c:\users\peter\source\repos\TestingQLearning\TestingQLearning\obj\Debug\TestingQLearning.exe
+c:\users\peter\source\repos\TestingQLearning\TestingQLearning\obj\Debug\TestingQLearning.xml
+c:\users\peter\source\repos\TestingQLearning\TestingQLearning\obj\Debug\TestingQLearning.pdb
